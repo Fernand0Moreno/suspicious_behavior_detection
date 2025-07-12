@@ -79,6 +79,8 @@ Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 Contacto
-Ariana Shantal Izurieta Pineda: correo@example.com
+Ariana Shantal Izurieta Pineda: aizurieta@est.ups.edu.ec
 
-Kevin Fernando Moreno Silva: correo@example.com
+Kevin Fernando Moreno Silva: kmorenos2@est.ups.edu.ec
+
+
